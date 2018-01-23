@@ -8,12 +8,12 @@
     tools:context="com.techacademy.takeda.ryoji.calcapp.MainActivity">
 
     <EditText
-        android:id="@+id/number1"
+        android:id="@+id/editText1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
     <EditText
-        android:id="@+id/number2"
+        android:id="@+id/editText2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
